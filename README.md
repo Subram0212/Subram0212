@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subram0212
-- 👀 I’m interested in Robotics, Operations Research, developing algorithms to solve optimization problems.
-- 🌱 I’m currently learning Reinforcement Learning, framework to solve cooperative vehicle routing problems for autonomous systems.
+- 👀 I’m interested in Operations Research, Robotics, controls, developing algorithms to solve optimization problems.
+- 🌱 I’m currently learning Reinforcement Learning to solve dynamic problems for autonomous systems.
 - 💞️ I’m looking to collaborate on projects involving reinforcement learning for autonomous systems.
 - 📫 Reach me via my email: subramanian2698@gmail.com, sramas21@uic.edu
 
