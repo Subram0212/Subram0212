@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning low-level control and Reinforcement Learning to solve dynamic problems for autonomous systems.
 - 💞️ I’m looking to collaborate on projects involving reinforcement learning for autonomous systems.
 - 📫 Reach me via my email: subramanian2698@gmail.com, sramas21@uic.edu
+- Researchgate profile: https://www.researchgate.net/profile/Subramanian_Ramasamy3
 
 <!---
 Subram0212/Subram0212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
