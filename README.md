@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subram0212
+- 👋 Hi, I’m Subramanian Ramasamy
 - 👀 I’m interested in Operations Research, Robotics, controls, developing algorithms to solve optimization problems.
 - My research is in the field of optimization, operations research and developing algorithms to solve Vehicle Routing Problems
 - 🌱 I also have experience in low-level control of quadcopters and performed simulation experiments of Trajectory tracking of quadcopters with suspended payload. 
