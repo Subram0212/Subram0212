@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Subram0212
 - 👀 I’m interested in Operations Research, Robotics, controls, developing algorithms to solve optimization problems.
 - My research is in the field of optimization, operations research and developing algorithms to solve Vehicle Routing Problems
-- 🌱 I’m currently learning low-level control and Reinforcement Learning to solve dynamic problems for autonomous systems.
+- 🌱 I also have experience in low-level control of quadcopters and simulated results with payload attached to it. 
+- 🌱 I am currently developing supervised Machine Learning and Reinforcement Learning to learn a policy to solve problems for multi-agent autonomous systems efficiently.
 - 💞️ I’m looking to collaborate on projects involving reinforcement learning for autonomous systems.
 - 📫 Reach me via my email: subramanian2698@gmail.com, sramas21@uic.edu
 - Researchgate profile: https://www.researchgate.net/profile/Subramanian_Ramasamy3
